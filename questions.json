@@ -1,1 +1,187 @@
-
+[
+    {
+        "question": "Who is your mentor in Fortress of Guffal?",
+        "options": ["A. Mysterious figure", "B. Ancient Tree", "C. Guardian Spirit"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the primary focus of Guffal?",
+        "options": ["A. Art and design", "B. Creativity and play", "C. Battle strategies"],
+        "answer": "B"
+    },
+    {
+        "question": "What is a Genopet in Guffal?",
+        "options": ["A. Magical creature", "B. Reflections of their owners", "C. Guardian angels"],
+        "answer": "B"
+    },
+    {
+        "question": "What can Genopet do?",
+        "options": ["A. Speak", "B. Evolve with every movement", "C. Cast spells"],
+        "answer": "B"
+    },
+    {
+        "question": "Where do you first meet your mentor in Guffal?",
+        "options": ["A. Near the ancient tree", "B. In a hidden cave", "C. At the top of the tower"],
+        "answer": "A"
+    },
+    {
+        "question": "What is found inside the large tree in Guffal?",
+        "options": ["A. Treasure", "B. Intricate carvings and elevators", "C. Ancient scrolls"],
+        "answer": "B"
+    },
+    {
+        "question": "What does the purple light in Guffal symbolize?",
+        "options": ["A. Magical aura", "B. Mystical energy of the fortress", "C. Light for navigation"],
+        "answer": "B"
+    },
+    {
+        "question": "How is the game played in Guffal?",
+        "options": ["A. By dancing", "B. Cards and strategies are hidden", "C. In a group"],
+        "answer": "B"
+    },
+    {
+        "question": "What did the mentor say about the games in Guffal?",
+        "options": ["A. They fortify the fortress and Arcium", "B. They are for fun only", "C. They are a way to gain power"],
+        "answer": "A"
+    },
+    {
+        "question": "What do the Genopets do with the owner's physical energy?",
+        "options": ["A. They consume it", "B. They grow stronger and more powerful", "C. They share it"],
+        "answer": "B"
+    },
+    {
+        "question": "Where does a Genopet live?",
+        "options": ["A. In a village", "B. On the towering branches of the ancient tree", "C. In the mentor's palace"],
+        "answer": "B"
+    },
+    {
+        "question": "What is needed to reach the top of the tree in Guffal?",
+        "options": ["A. A magical key", "B. A grand platform and mystical light", "C. A climbing rope"],
+        "answer": "B"
+    },
+    {
+        "question": "Who built Guffal?",
+        "options": ["A. The citizens of Arcium", "B. Ancient wizards", "C. Alien invaders"],
+        "answer": "A"
+    },
+    {
+        "question": "What created the game world in Guffal?",
+        "options": ["A. A divine entity", "B. Arcae conjuration", "C. A cosmic event"],
+        "answer": "B"
+    },
+    {
+        "question": "How is the creation of Genopets viewed by the mentor?",
+        "options": ["A. As a toy", "B. A blend of creativity and physicality", "C. A result of magic"],
+        "answer": "B"
+    },
+    {
+        "question": "What happens when you move around your Genopet?",
+        "options": ["A. It transforms", "B. It hums with energy", "C. It dances"],
+        "answer": "B"
+    },
+    {
+        "question": "Who teaches the games and play in Guffal?",
+        "options": ["A. The elder", "B. The mentor of Guffal", "C. The villagers"],
+        "answer": "B"
+    },
+    {
+        "question": "What does a Genopet mirror as it grows?",
+        "options": ["A. Its owner's personality", "B. The sky", "C. Its owner's growth"],
+        "answer": "C"
+    },
+    {
+        "question": "What propels Genopet's growth?",
+        "options": ["A. Magic", "B. Physical activity of the owner", "C. Chanting"],
+        "answer": "B"
+    },
+    {
+        "question": "Where are the hidden games played in Guffal?",
+        "options": ["A. In a secret cave", "B. In a decentralized manner", "C. At the mentor's palace"],
+        "answer": "B"
+    },
+    {
+        "question": "What do each game in Guffal represent?",
+        "options": ["A. A test of strength", "B. A test of knowledge and strategy", "C. A game of luck"],
+        "answer": "B"
+    },
+    {
+        "question": "What makes a Genopet different from a regular pet?",
+        "options": ["A. They require less care", "B. They evolve with their owner’s journey", "C. They talk"],
+        "answer": "B"
+    },
+    {
+        "question": "What is symbolized by the purple light in Guffal?",
+        "options": ["A. A mystical aura", "B. A beacon of hope", "C. A mystical light guiding through the fortress"],
+        "answer": "C"
+    },
+    {
+        "question": "What happens when a player fails to answer a question correctly?",
+        "options": ["A. They lose the game", "B. The challenge is still part of their growth", "C. Nothing"],
+        "answer": "B"
+    },
+    {
+        "question": "Who creates the games in Guffal?",
+        "options": ["A. The villagers", "B. The mentor", "C. The gods of Arcium"],
+        "answer": "A"
+    },
+    {
+        "question": "What drives the games in Guffal?",
+        "options": ["A. The desire for power", "B. The desire for creativity and challenge", "C. The need to compete"],
+        "answer": "B"
+    },
+    {
+        "question": "How does a Genopet relate to the environment in Guffal?",
+        "options": ["A. They ignore it", "B. They adapt and mirror the surroundings", "C. They transform it"],
+        "answer": "B"
+    },
+    {
+        "question": "What characterizes a Genopet in Guffal?",
+        "options": ["A. They are always hungry", "B. They evolve with every step", "C. They are very quiet"],
+        "answer": "B"
+    },
+    {
+        "question": "Where do Guffal players find adventure?",
+        "options": ["A. In the market", "B. Within the tree fortress", "C. In the mentor's palace"],
+        "answer": "B"
+    },
+    {
+        "question": "What motivates players in Guffal?",
+        "options": ["A. The quest for power", "B. The quest for knowledge and creativity", "C. The desire to win"],
+        "answer": "B"
+    },
+    {
+        "question": "What happens when Genopet grows?",
+        "options": ["A. It becomes more aggressive", "B. It becomes more powerful and adept", "C. It slows down"],
+        "answer": "B"
+    },
+    {
+        "question": "What is found on the platform floor in Guffal?",
+        "options": ["A. Coins", "B. A mystical purple light", "C. Ancient relics"],
+        "answer": "B"
+    },
+    {
+        "question": "What does Guffal offer to players?",
+        "options": ["A. A way to earn money", "B. A sense of purpose and challenge", "C. A relaxing environment"],
+        "answer": "B"
+    },
+    {
+        "question": "How does a Genopet show its development?",
+        "options": ["A. Through verbal communication", "B. Through their interaction and evolution", "C. Through physical changes only"],
+        "answer": "B"
+    },
+    {
+        "question": "What gives meaning to the journey in Guffal?",
+        "options": ["A. Victory", "B. Play, strategy, and self-discovery", "C. A quest for treasure"],
+        "answer": "B"
+    },
+    {
+        "question": "Where does a Genopet find its residence?",
+        "options": ["A. In a palace", "B. High in the ancient tree", "C. In the village square"],
+        "answer": "B"
+    },
+    {
+        "question": "What makes Guffal appealing to visitors?",
+        "options": ["A. The tranquility", "B. The blend of creativity, play, and challenge", "C. The abundance of food"],
+        "answer": "B"
+    }
+]
