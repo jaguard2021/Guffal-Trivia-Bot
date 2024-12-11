@@ -58,3 +58,4 @@ async def score(ctx):
 
 # Menjalankan bot dengan token
 bot.run('YOUR_TOKEN')
+
