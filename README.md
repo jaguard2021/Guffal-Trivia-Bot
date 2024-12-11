@@ -19,3 +19,7 @@
 - To run the bot, use the following command:
   ```bash
   bot.run('YOUR_TOKEN')
+
+### **Interacting with the Bot:**
+Users can start a trivia game by typing the command !trivia.
+To check the current score, users can type !score.
