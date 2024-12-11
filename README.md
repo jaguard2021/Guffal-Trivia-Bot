@@ -25,6 +25,13 @@ Users can start a trivia game by typing the command !trivia.
 
 To check the current score, users can type !score.
 
+### **Files in This Repository:**
+bot.py: The main bot script.
+
+questions.json: Contains trivia questions.
+
+README.md: This file.
+
 
 
 
